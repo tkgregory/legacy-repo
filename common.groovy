@@ -1,5 +1,5 @@
 def doSomething() {
-    println "Hey ho"
+    println "Hey ho $Global"
 }
 
 return this
