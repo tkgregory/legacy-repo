@@ -1,10 +1,10 @@
 def doSomething() {
-    println "Hey ho $Global"
+    println "Hey ho "
     saybye()
 }
 
 def saybye() {
-    println "Bye bye $Global"
+    println "Bye bye"
 }
 
 def dontcallme() {
