@@ -7,4 +7,8 @@ def saybye() {
     println "Bye bye $Global"
 }
 
+def dontcallme() {
+    println "HiHi $Something"
+}
+
 return this
